@@ -6,23 +6,26 @@ ClockX is a custom-built digital clock powered by an ESP32-S3. It includes a 2.2
 - Stopwatch
 - Timer
 - Custom rington option
-- There is hole for USB, Buzzer and display with tolerances
+- There are some holes for USB, Buzzer, Battery and display with tolerances of 0.5mm.
 
 # Interesting Fact
 
-- The top of the clock is open willingly to display the asthetic look of PCB.
+- The alarm clock is soo tiny. Its like less then 110mm in all sides.
 
 # CAD
 Below, is my cad, made in Onshape
 
-<img width="455" height="436" alt="Screenshot 2026-10-31 184656" src="https://github.com/user-attachments/assets/10034234-5555-4ac0-bfc2-e80750db21c1" />
-<img width="725" height="582" alt="Screenshot 2026-10-31 184718" src="https://github.com/user-attachments/assets/81e0e96a-407a-458d-8e0d-5ae1ac5695c3" />
-<img width="1017" height="796" alt="Screenshot 2026-10-31 184753" src="https://github.com/user-attachments/assets/6f8fd9e0-710f-4900-9bd9-40151042872f" />
-<img width="1082" height="787" alt="Screenshot 2026-10-31 184815" src="https://github.com/user-attachments/assets/95e97acb-bad6-4f18-a59c-b03ce952ec30" />
-<img width="928" height="716" alt="Screenshot 2026-10-31 184827" src="https://github.com/user-attachments/assets/d319e805-0716-40e5-8ab2-dd0df588a05e" />
-<img width="937" height="702" alt="Screenshot 2026-10-31 184840" src="https://github.com/user-attachments/assets/b13e3969-b3bd-4dbe-8aaf-07235812b4bc" />
-<img width="553" height="437" alt="Screenshot 2026-10-31 184640" src="https://github.com/user-attachments/assets/0d44000d-3284-4d2e-8d7c-412cebea4fb2" />
-<img width="615" height="426" alt="Screenshot 2026-10-31 184707" src="https://github.com/user-attachments/assets/1aa7fc12-5f1d-46c1-84c7-cd3cc5a7e781" />
+<img width="817" height="692" alt="Screenshot 2026-11-02 124921" src="https://github.com/user-attachments/assets/937aeb4b-ab42-403d-a1f5-8cdfd2597270" />
+<img width="1023" height="652" alt="Screenshot 2026-11-02 135721" src="https://github.com/user-attachments/assets/67ac3cf6-5294-402f-998a-79df06f01e13" />
+<img width="912" height="737" alt="Screenshot 2026-11-02 135754" src="https://github.com/user-attachments/assets/b02ebbbc-e5da-4586-a2e3-1b5baa50d1b3" />
+<img width="802" height="701" alt="Screenshot 2026-11-02 135800" src="https://github.com/user-attachments/assets/50809a88-fa0e-4dc8-83b8-0f74a2207ad0" />
+<img width="790" height="682" alt="Screenshot 2026-11-02 135819" src="https://github.com/user-attachments/assets/a1c655fd-c03e-49ea-afea-2046a51891fc" />
+<img width="822" height="592" alt="Screenshot 2026-11-02 135830" src="https://github.com/user-attachments/assets/0cecbb74-a92c-4e2c-8e3a-b3cbc9e19efd" />
+<img width="1048" height="657" alt="Screenshot 2026-11-02 135835" src="https://github.com/user-attachments/assets/64dd8434-4f60-477c-a02c-ad5efa58b9dc" />
+<img width="901" height="668" alt="Screenshot 2026-11-02 135842" src="https://github.com/user-attachments/assets/69032279-0a89-475a-8124-6cadc6f59b57" />
+<img width="687" height="631" alt="Screenshot 2026-11-02 135854" src="https://github.com/user-attachments/assets/3cf985aa-02ac-4560-a07e-1264cef84b3a" />
+<img width="1242" height="765" alt="Screenshot 2026-11-02 135932" src="https://github.com/user-attachments/assets/adcff53e-e162-484d-89db-fbbb4c8d064c" />
+
 
 # Scematic and PCB Layout
 Below, is my schematic and PCB layout, made in KiCad
