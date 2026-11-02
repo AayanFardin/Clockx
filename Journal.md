@@ -38,7 +38,8 @@ And this is the final smaller one
 
 Then came the Most challenging part, the cad. And I didn't even made one. so I first downloaded a stl file for a display from google and uploaded it into assembly then I aligned them.  AFter so many trial and error, I FINALLY made THE CAD. LET's GOO. 
 
-<img width="975" height="752" alt="image" src="https://github.com/user-attachments/assets/fc20c2a9-3124-4357-a3f9-7f6fcc57ca04" />
+<img width="992" height="703" alt="Screenshot 2026-11-02 135045" src="https://github.com/user-attachments/assets/168ae687-c6e3-4f31-a0b0-f752c6f762e5" />
+
 
 
 And after that the firmware comes. But since i didn't had much time I just managed to display the time and wait not only that, also I made custom BUZZER SOUND. Its like you add frequency and which results in different sounds
