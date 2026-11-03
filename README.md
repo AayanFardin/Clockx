@@ -36,7 +36,7 @@ Below, is my schematic and PCB layout, made in KiCad
 # CLOCKX – BILL OF MATERIALS (BOM)
 
 | No. | Component | Quantity | Status |
-|-----|-----------|----------|--------|
+|---|---|---|---|
 | 1 | Cherry MX Switches | 4x | Required |
 | 2 | DSA Keycaps | 4x | Required |
 | 3 | Seeed XIAO ESP32C3 | 1x | Required |
@@ -48,6 +48,8 @@ Below, is my schematic and PCB layout, made in KiCad
 | 9 | M3x8mm Screws | 4x | Required |
 | 10 | M3x16mm Screws | 4x | Required |
 | 11 | 3D-Printed Case | 1x | Required |
-| 12 | 18650 Battery Case | 1x | I can afford |
-| 13 | 18650 Batteries | 2x | I can afford |
-| 14 | Buck Converter | 1x | I can afford |
+| 12 | PCB | 1x | Required |
+| 13 | Soldering Iron | 1x | Required |
+| 14 | 18650 Battery Case | 1x | I can afford |
+| 15 | 18650 Batteries | 2x | I can afford |
+| 16 | Buck Converter | 1x | I can afford |
