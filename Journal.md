@@ -38,7 +38,8 @@ And this is the final smaller one
 
 Then came the Most challenging part, the cad. And I didn't even made one. so I first downloaded a stl file for a display from google and uploaded it into assembly then I aligned them.  AFter so many trial and error, I FINALLY made THE CAD. LET's GOO. 
 
-<img width="992" height="703" alt="Screenshot 2026-11-02 135045" src="https://github.com/user-attachments/assets/168ae687-c6e3-4f31-a0b0-f752c6f762e5" />
+<img width="915" height="632" alt="Screenshot 2026-11-05 211120" src="https://github.com/user-attachments/assets/11715224-48d8-4445-8b33-9ec50d3e1b23" />
+
 
 
 
