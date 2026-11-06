@@ -15,16 +15,8 @@ ClockX is a custom-built digital clock powered by an ESP32-S3. It includes a 2.2
 # CAD
 Below, is my cad, made in Onshape
 
-<img width="817" height="692" alt="Screenshot 2026-11-02 124921" src="https://github.com/user-attachments/assets/937aeb4b-ab42-403d-a1f5-8cdfd2597270" />
-<img width="1023" height="652" alt="Screenshot 2026-11-02 135721" src="https://github.com/user-attachments/assets/67ac3cf6-5294-402f-998a-79df06f01e13" />
-<img width="912" height="737" alt="Screenshot 2026-11-02 135754" src="https://github.com/user-attachments/assets/b02ebbbc-e5da-4586-a2e3-1b5baa50d1b3" />
-<img width="802" height="701" alt="Screenshot 2026-11-02 135800" src="https://github.com/user-attachments/assets/50809a88-fa0e-4dc8-83b8-0f74a2207ad0" />
-<img width="790" height="682" alt="Screenshot 2026-11-02 135819" src="https://github.com/user-attachments/assets/a1c655fd-c03e-49ea-afea-2046a51891fc" />
-<img width="822" height="592" alt="Screenshot 2026-11-02 135830" src="https://github.com/user-attachments/assets/0cecbb74-a92c-4e2c-8e3a-b3cbc9e19efd" />
-<img width="1048" height="657" alt="Screenshot 2026-11-02 135835" src="https://github.com/user-attachments/assets/64dd8434-4f60-477c-a02c-ad5efa58b9dc" />
-<img width="901" height="668" alt="Screenshot 2026-11-02 135842" src="https://github.com/user-attachments/assets/69032279-0a89-475a-8124-6cadc6f59b57" />
-<img width="687" height="631" alt="Screenshot 2026-11-02 135854" src="https://github.com/user-attachments/assets/3cf985aa-02ac-4560-a07e-1264cef84b3a" />
-<img width="1242" height="765" alt="Screenshot 2026-11-02 135932" src="https://github.com/user-attachments/assets/adcff53e-e162-484d-89db-fbbb4c8d064c" />
+<img width="915" height="632" alt="Screenshot 2026-11-05 211120" src="https://github.com/user-attachments/assets/b48e1c10-52a6-407a-bbc3-a0dc9aa68372" />
+
 
 
 # Scematic and PCB Layout
