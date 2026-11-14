@@ -19,6 +19,8 @@
 | 15 | [18650 Batteries](https://www.aliexpress.com/item/1005007657633749.html) | 2x | Required | $9.89 |
 | 16 | Buck Converter | 1x | I can afford | — |
 |---|---|---|---|---:|
-| **TOTAL** | | | **Known costs only** | **~$41.33 CAD** |
+| | **Component Subtotal** | | | **$41.33** |
+| | **Shipping for Components** | | | **$18.37** |
+| | **TOTAL** | | | **$59.70 CAD** |
 
-**Note:** The total includes only components with known prices. The cost of the 3D-printed case and any other unpriced components is not included.
+**Note:** The total includes only components with known prices and shipping. The 3D-printed case and other unpriced components are not included.
