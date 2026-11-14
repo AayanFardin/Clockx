@@ -1,5 +1,3 @@
-CLOCKX - Bill of Materials (BOM)
-
 No.,Component,Quantity,Status,Price (CAD)
 1,Cherry MX Switches,4x,I can afford,-
 2,DSA Keycaps,4x,I can afford,-
@@ -19,6 +17,4 @@ No.,Component,Quantity,Status,Price (CAD)
 16,Buck Converter,1x,I can afford,-
 ,Component Subtotal,,,31.60
 ,Shipping for Components (not PCB),,,9.30
-,TOTAL,,,40.90 CAD
-
-Note: The total includes components and PCB with known prices and shipping. The 3D-printed case cost is excluded because its price is not yet known.
+,TOTAL,,,40.90
