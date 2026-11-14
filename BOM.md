@@ -14,13 +14,13 @@
 | 10 | M3x8mm Screws | 4x | I can afford | — |
 | 11 | M3x16mm Screws | 4x | I can afford | — |
 | 12 | 3D-Printed Case | 1x | Required (Price not sure) | — |
-| 13 | PCB | 1x | Required | ~$10.36 |
+| 13 | PCB(Including shipping) | 1x | Required | ~$10.36 |
 | 14 | [18650 Battery Case](https://www.aliexpress.com/item/4001207701699.html) | 1x | Required | $3.46 |
 | 15 | [18650 Batteries](https://www.aliexpress.com/item/1005007657633749.html) | 2x | Required | $9.89 |
 | 16 | Buck Converter | 1x | I can afford | — |
 |---|---|---|---|---:|
 | | **Component Subtotal** | | | **$31.60** |
-| | **Shipping for Components** | | | **$9.30** |
+| | **Shipping for Components(not PCB)** | | | **$9.30** |
 | | **TOTAL** | | | **$40.90 CAD** |
 
 **Note:** The total includes only components with known prices and shipping. The 3D-printed case and other unpriced components are not included.
