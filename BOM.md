@@ -13,7 +13,7 @@
 | 9 | M3x5x4 Heatset Inserts | 8x | I can afford | — |
 | 10 | M3x8mm Screws | 4x | I can afford | — |
 | 11 | M3x16mm Screws | 4x | I can afford | — |
-| 12 | 3D-Printed Case | 1x | Required (Price not sure) | — |
+| 12 | 3D-Printed Case | 1x | Required (Price not sure) |  Required (Price not sure) |
 | 13 | PCB(Including shipping) | 1x | Required | ~$10.36 |
 | 14 | [18650 Battery Case](https://www.aliexpress.com/item/4001207701699.html) | 1x | Required | $3.46 |
 | 15 | [18650 Batteries](https://www.aliexpress.com/item/1005007657633749.html) | 2x | Required | $9.89 |
