@@ -12,7 +12,9 @@ ClockX is a custom-built digital clock powered by an ESP32-S3. It includes a 2.2
 
 - The alarm clock is soo tiny. Its like less then 110mm in all sides.
 # Why I made this?
-So basically I go to my school often late and to make me wake up I made this clock. Moreover to help me in studies with the timer.
+- So basically I go to my school often late and to make me wake up I made this clock.
+- Moreover to help me in studies with the timer and stopwatch
+- Also to give my table a cool look with my hand made stuffs
 # CAD
 Below, is my cad, made in Onshape
 
