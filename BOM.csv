@@ -1,20 +1,22 @@
-No.,Component,Quantity,Status,Price (CAD)
-1,Cherry MX Switches,4x,I can afford,-
-2,DSA Keycaps,4x,I can afford,-
-3,Seeed XIAO ESP32C3,1x,Required,6.15
-4,2.25-inch TFT Screen,1x,Required,1.74
-5,3.3V Piezo Buzzer,1x,I can afford,-
-6,2.54mm 8-Pin Male Header,1x,I can afford,-
-7,2.54mm 14-Pin Male-Female Header,1x,I can afford,-
-8,20cm Female-Female Jumper Wires,8x,I can afford,-
-9,M3x5x4 Heatset Inserts,8x,I can afford,-
-10,M3x8mm Screws,4x,I can afford,-
-11,M3x16mm Screws,4x,I can afford,-
-12,3D-Printed Case,1x,Required (Price not sure),TBD
-13,PCB (Including shipping),1x,Required,10.36
-14,18650 Battery Case,1x,Required,3.46
-15,18650 Batteries,2x,Required,9.89
-16,Buck Converter,1x,I can afford,-
-,Component Subtotal,,,31.60
-,Shipping for Components (not PCB),,,9.30
-,TOTAL,,,40.90
+No.,Component,Quantity,Status,Price (CAD),Links
+1,Cherry MX Switches,4x,I can afford,-,-
+2,DSA Keycaps,4x,I can afford,-,-
+3,Seeed XIAO ESP32C3,1x,Required,6.15,https://www.aliexpress.com/item/1005006979844970.html
+4,2.25-inch TFT Screen,1x,Required,1.74,https://www.aliexpress.com/item/1005011855033572.html
+5,3.3V Piezo Buzzer,1x,I can afford,-,-
+6,2.54mm 8-Pin Male Header,1x,I can afford,-,-
+7,2.54mm 14-Pin Male-Female Header,1x,I can afford,-,-
+8,20cm Female-Female Jumper Wires,8x,I can afford,-,-
+9,M3x5x4 Heatset Inserts,8x,I can afford,-,-
+10,M3x8mm Screws,4x,I can afford,-,-
+11,M3x16mm Screws,4x,I can afford,-,-
+12,3D-Printed Case,1x,Required (Price not sure),TBD,-
+13,PCB (Including shipping),1x,Required,10.36,-
+14,18650 Battery Case,1x,Required,3.46,https://www.aliexpress.com/item/4001207701699.html
+15,18650 Batteries,2x,Required,9.89,https://www.aliexpress.com/item/1005007657633749.html
+16,Buck Converter,1x,I can afford,-,-
+,Component Subtotal,,,31.60,
+,Shipping for Components (not PCB),,,9.30,
+,TOTAL,,,40.90 CAD,
+
+Note: The total includes components and PCB with known prices and shipping. The 3D-printed case cost is excluded because its price is not yet known.
