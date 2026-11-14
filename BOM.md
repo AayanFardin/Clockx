@@ -23,4 +23,4 @@
 | | **Shipping for Components(not PCB)** | | | **$9.30** |
 | | **TOTAL** | | | **$40.90 CAD** |
 
-**Note:** The total includes only components with known prices and shipping. The 3D-printed case and other unpriced components are not included.
+**Note:** The total includes only components and PCB with known prices and shipping. The 3D-printed case price are not included since am not sure.
