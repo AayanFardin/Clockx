@@ -18,5 +18,3 @@ No.,Component,Quantity,Status,Price (CAD),Links
 ,Component Subtotal,,,31.60,
 ,Shipping for Components (not PCB),,,9.30,
 ,TOTAL,,,40.90 CAD,
-
-Note: The total includes components and PCB with known prices and shipping. The 3D-printed case cost is excluded because its price is not yet known.
