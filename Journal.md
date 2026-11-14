@@ -38,10 +38,11 @@ And this is the final smaller one
 
 Then came the Most challenging part, the cad. And I didn't even made one. so I first downloaded a stl file for a display from google and uploaded it into assembly then I aligned them.  AFter so many trial and error, I FINALLY made THE CAD. LET's GOO. 
 
+<img width="1036" height="720" alt="Screenshot 2026-11-02 135655" src="https://github.com/user-attachments/assets/510b6521-cfbb-4565-a362-f9957a07e141" />
+
+But wait, I just realized something the bottom big rectangle looks weired a bit. And moreover my display hole is at the bottom. So, I removed that big rectangle and made the bottom plain. I did this because I am a bigineer in CAD and this was my first time, deigning something real in onshape and so I wanted to keep it simple. And also corrected that display hole. Because than I couldn't see my timee. Anyways the big thing is I actually FINISHED my clockx DESIGN. But accidently I forgot to lapse this last part correction.
+
 <img width="915" height="632" alt="Screenshot 2026-11-05 211120" src="https://github.com/user-attachments/assets/11715224-48d8-4445-8b33-9ec50d3e1b23" />
-
-
-
 
 And after that the firmware comes. But since i didn't had much time I just managed to display the time and wait not only that, also I made custom BUZZER SOUND. Its like you add frequency and which results in different sounds
 
