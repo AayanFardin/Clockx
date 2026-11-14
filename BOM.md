@@ -5,7 +5,7 @@
 | 1 | Cherry MX Switches | 4x | I can afford | — |
 | 2 | DSA Keycaps | 4x | I can afford | — |
 | 3 | [Seeed XIAO ESP32C3](https://www.aliexpress.com/item/1005006979844970.html) | 1x | Required | $6.15 |
-| 4 | [2.25-inch TFT Screen](https://www.aliexpress.com/item/1005011855033572.html) | 1x | Required | $8.39 |
+| 4 | [2.25-inch TFT Screen](https://www.aliexpress.com/item/1005011855033572.html) | 1x | Required | $1.74 |
 | 5 | 3.3V Piezo Buzzer | 1x | I can afford | — |
 | 6 | 2.54mm 8-Pin Male Header | 1x | I can afford | — |
 | 7 | 2.54mm 14-Pin Male-Female Header | 1x | I can afford | — |
@@ -19,8 +19,8 @@
 | 15 | [18650 Batteries](https://www.aliexpress.com/item/1005007657633749.html) | 2x | Required | $9.89 |
 | 16 | Buck Converter | 1x | I can afford | — |
 |---|---|---|---|---:|
-| | **Component Subtotal** | | | **$38.25** |
+| | **Component Subtotal** | | | **$31.60** |
 | | **Shipping for Components** | | | **$9.30** |
-| | **TOTAL** | | | **$47.55 CAD** |
+| | **TOTAL** | | | **$40.90 CAD** |
 
 **Note:** The total includes only components with known prices and shipping. The 3D-printed case and other unpriced components are not included.
